@@ -15,6 +15,7 @@ namespace ADO.NET_MSIT141
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Hello");
         }
     }
 }
